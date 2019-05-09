@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>  
+<?xml version="1.0" encoding="utf-8"?>
 
 <widget xmlns = "http://www.w3.org/ns/widgets"
 xmlns:gap = "http://phonegap.com/ns/1.0"
@@ -12,7 +12,7 @@ Aplicacion que realiza el swipe deslizamiento en el dispositivo
 </description>
 
 <author href="https://build.phonegap.com" email="santiagoxmtz@hotmail.com">
-Leonardo Gutierrez
+Santiago Xicotencatl Martinez
 </author>
 
 <!--Personaliza la aplicacion y plataforma -->
@@ -42,31 +42,5 @@ Leonardo Gutierrez
 <icon src="res/android/mdpi.png"/>
 
 </widget>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
